@@ -1,0 +1,15 @@
+/.idea
+/.vscode
+/.VSCodeCounter
+/node_modules
+# /webapp
+/yarn.lock
+.history
+*/package-lock.json
+package-lock.json
+program/
+.gitlab-ci.yml
+.DS_Store
+/stock.rest
+.editorconfig
+
