@@ -1,7 +1,6 @@
 /.idea
 /.vscode
 /.VSCodeCounter
-/charts/node_modules
 /node_modules
 # /webapp
 /yarn.lock
